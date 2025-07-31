@@ -40,4 +40,7 @@ Governments and environmental agencies (like India's CPCB) use the AQI to issue 
 - Streamlit
 - GitHub Action
 
+
 <b><i>High Level Architecture:- </i></b>
+
+<img src="./Assets/High Level Architecture.png"></img>
