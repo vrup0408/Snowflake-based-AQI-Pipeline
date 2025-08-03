@@ -45,6 +45,10 @@ Governments and environmental agencies (like India's CPCB) use the AQI to issue 
 
 <img src="./Assets/High Level Architecture.png"></img>
 
+<b><i>Snowflake Pipeline:- </i></b>
+
+<img src="./Assets/Snowflake Pipeline.png"></img>
+
 <b>Project Description:- </b> 
 - So, I have a Snowpark Script, that will call the API & get the response from it. After getting the response, it will save its json data into one file and that file will be uploaded to the Snowflake Stage.
 
